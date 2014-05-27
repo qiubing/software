@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/bing'
+let g:netrw_dirhist_2='/home/bing/linux-3.10.38'
+let g:netrw_dirhist_3='/home/bing'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/boot'
+let g:netrw_dirhist_7='/boot/grub'
+let g:netrw_dirhist_8='/boot'
+let g:netrw_dirhist_9='/home/bing/program'
